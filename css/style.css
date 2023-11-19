@@ -179,7 +179,7 @@ color: #FFC436;
 
 /* ////////////////////////////////////////////////////////////////////////////////////////////////// */
 
-@media only screen and (min-width:768px) and (max-width:991px){
+/* @media only screen and (min-width:768px) and (max-width:991px){
     #carousel-caption{
         bottom: 200px;
     }
@@ -240,4 +240,4 @@ color: #FFC436;
         line-height: 1.6;
         font-size: 12px;
     }
-}
+} */
